@@ -7,41 +7,41 @@ Explore real support systems, campaigns, and Discord setups I've built for proje
 ## 📁 What’s Inside
 
 ### 🎫 [Ticket SOP](Ticket-System/Ticket-SOP.md)  
-Structured ticket flow for user support and bug tracking.
+Structured support flow used for community/user query handling with escalation examples.
 
 ### 🎁 [Giveaway Strategy](Marketing-Campaigns/Giveaway-Strategy.md)  
-Giveaway planning, execution steps, and best practices.
+Giveaway setup, eligibility rules, timeline, and CTA formats I used during Bitfinity & Dmail campaigns.
 
 ### 📢 [Announcement Samples](Announcements/Announcement-Samples.md)  
-Professional announcement formats for launches, updates, and public reminders.
+Real announcement messages for updates, alerts, and launch campaigns — optimized for Telegram & Discord.
 
-### 🤖 [Solmoon Setup](Discord-Setup/Solmoon-Setup.md)  
-Full Discord server structure, bot configs, and moderation flow.
+### 🤖 [Solmoon Discord Setup](Discord-Setup/Solmoon-Setup.md)  
+Step-by-step structure showing Solmoon’s full server build: onboarding, roles, categories, bots.
 
 ### 🤖 [Bot List](Discord-Setup/Bot-List.md)  
-Essential bots + usage tips for Web3 communities.
+List of useful Discord bots + what each one does (moderation, engagement, ticketing, XP farming).
 
 ---
 
-## ✅ Why This Matters
+## ✅ Why This Repo Exists
 
-These are not templates for the desk—**they are live-tested setups** I’ve implemented while managing real Web3 communities.
+> These are tested setups I’ve used in active Web3 projects — built for functionality, not just design.
 
-📌 Useful for:
-- Community Leads  
-- Moderators  
-- DAO Operators  
-- Web3 Support Roles
+Useful for:
+- Web3 Community Managers  
+- Mods / DAO operators  
+- Support Role Candidates  
+- Campaign Execution Teams
 
 ---
 
 ## 🔗 Related Links
 
-- 🧠 [Social Media Manager Repo](https://github.com/Kuku7774/social-media-strategy)  
-- 🧾 [LinkedIn Profile](https://linkedin.com/in/patel-jay-908a30151)
+- 📱 [Social Media Manager Repo](https://github.com/Kuku7774/social-media-strategy)  
+- 🧾 [LinkedIn Profile](https://linkedin.com/in/patel-jay-908a30151)  
+- 🧩 [GitHub Profile](https://github.com/Kuku7774)
 
 ---
 
-> Built and maintained by **Patel Jay**  
-> Web3 Community Manager  
+> Built by **Patel Jay** – Web3 Community Specialist  
 > [github.com/Kuku7774](https://github.com/Kuku7774)
