@@ -12,7 +12,7 @@ Structured support flow used for community/user query handling with escalation e
 ### 🎁 [Giveaway Strategy](Marketing-Campaigns/Giveaway-Strategy.md)  
 Giveaway setup, eligibility rules, timeline, and CTA formats I used during Bitfinity & Dmail campaigns.
 
-### 📢 [Announcement Samples](Announcements/Announcement-Samples.md)  
+[Announcement Samples](Announcements/announcement-samples.md)
 Real announcement messages for updates, alerts, and launch campaigns — optimized for Telegram & Discord.
 
 ### 🤖 [Solmoon Discord Setup](Discord-Setup/Solmoon-Setup.md)  
