@@ -6,32 +6,32 @@ Explore real support systems, campaigns, and Discord setups I've built for proje
 
 ## 📁 What’s Inside
 
-### 🎫 [Ticket SOP](Ticket-System/Ticket-SOP.md)  
-Structured support flow used for community/user query handling with escalation examples.
+### 🎫 [Ticket SOP](Ticket-System/ticket-sop/ticket-sop.md)  
+Structured support flow for community queries and ticketing.
 
-### 🎁 [Giveaway Strategy](Marketing-Campaigns/Giveaway-Strategy.md)  
-Giveaway setup, eligibility rules, timeline, and CTA formats I used during Bitfinity & Dmail campaigns.
+### 🎁 [Giveaway Strategy](Marketing-Campaigns/giveaway-strategy/giveaway-strategy.md)  
+Planning, execution, and CTA samples used in Dmail & Bitfinity giveaways.
 
-[Announcement Samples](Announcements/announcement-samples.md)
-Real announcement messages for updates, alerts, and launch campaigns — optimized for Telegram & Discord.
+### 📢 [Announcement Samples](Announcements/announcement-samples/announcement-samples.md)  
+Telegram/Discord-ready copy formats for launches, feature drops, and alerts.
 
-### 🤖 [Solmoon Discord Setup](Discord-Setup/Solmoon-Setup.md)  
-Step-by-step structure showing Solmoon’s full server build: onboarding, roles, categories, bots.
+### 🤖 [Solmoon Setup](Discord-Setup/solmoon-setup/solmoon-setup.md)  
+Step-by-step structure of the Solmoon Discord server, roles, and bots.
 
-### 🤖 [Bot List](Discord-Setup/Bot-List.md)  
-List of useful Discord bots + what each one does (moderation, engagement, ticketing, XP farming).
+### 🤖 [Bot List](Discord-Setup/bot-list/bot-list.md)  
+Most-used bots for moderation, onboarding, tickets, and community roles.
 
 ---
 
 ## ✅ Why This Repo Exists
 
-> These are tested setups I’ve used in active Web3 projects — built for functionality, not just design.
+> These formats are not drafts — they’re from real Web3 projects I've managed and scaled.
 
 Useful for:
-- Web3 Community Managers  
-- Mods / DAO operators  
-- Support Role Candidates  
-- Campaign Execution Teams
+- Community Managers  
+- Web3 Moderators  
+- DAO Contributors  
+- Support Leads
 
 ---
 
@@ -43,5 +43,5 @@ Useful for:
 
 ---
 
-> Built by **Patel Jay** – Web3 Community Specialist  
+> Built by **Patel Jay** – Web3 Community & Support Specialist  
 > [github.com/Kuku7774](https://github.com/Kuku7774)
